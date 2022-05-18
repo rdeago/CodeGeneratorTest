@@ -1,0 +1,13 @@
+# Visual Studio
+**/bin/
+**/obj/
+**/.vs/
+*.csproj.user
+*.pubxml.user
+
+# ReSharper
+*.DotSettings.user
+_ReSharper.*/
+
+# Windows thumbnails
+Thumbs.db
